@@ -1,0 +1,5 @@
+# Test data: ../data/EU_flights.txt
+# Parameters: L = 850, beta = 0.2, gamma = 2, nruns = 1, re-insertion = True
+# Best result: 131, duration = 4.96604209400175 # avg: 131.0, avg duration = 4.96604209400175
+# run No., objective function value, duration
+0,131,4.96604209400175

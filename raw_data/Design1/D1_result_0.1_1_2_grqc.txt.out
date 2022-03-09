@@ -1,0 +1,6 @@
+# Test data: ../data/grqc.txt
+# Parameters: L = 20, beta = 0.1, log = 2, nruns = 1, re-insertion = False
+# Best result: 0, duration = 1.2385816809983226 BC
+# avg: 0.0, avg duration = 1.2385816809983226
+# iteration No., bc value, bdc value, duration
+0,0,0,1.2385816809983226

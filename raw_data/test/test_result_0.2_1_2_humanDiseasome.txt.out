@@ -1,0 +1,5 @@
+# Test data: ../data/humanDiseasome.txt
+# Parameters: L = 10, beta = 0.2, gamma = 2, nruns = 1, re-insertion = True
+# Best result: 50, duration = 0.2307263030015747 # avg: 50.0, avg duration = 0.2307263030015747
+# run No., objective function value, duration
+0,50,0.2307263030015747

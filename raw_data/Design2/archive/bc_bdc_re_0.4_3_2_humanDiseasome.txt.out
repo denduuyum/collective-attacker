@@ -1,0 +1,8 @@
+# Test data: ../data/humanDiseasome.txt
+# Parameters: L = 10, beta = 0.4, log = 2, nruns = 3, re-insertion = True
+# Best result: 50, duration = 0.3347255410008074 BC
+# avg: 50.333333333333336, avg duration = 0.3185232323339733
+# iteration No., bc value, bdc value, duration
+0,50,51,0.3347255410008074
+1,50,50,0.2869465330004459
+2,51,53,0.3338976230006665

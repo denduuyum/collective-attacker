@@ -1,0 +1,7 @@
+# Test data: ../data/OClinks.txt
+# Parameters: L = 1100, beta = 0.2, gamma = 2, nruns = 3, re-insertion = True
+# Best result: 217, duration = 4.753801333004958 # avg: 220.33333333333334, avg duration = 5.021211933000207
+# run No., objective function value, duration
+0,221,5.032433626001875
+1,223,5.277400839993788
+2,217,4.753801333004958

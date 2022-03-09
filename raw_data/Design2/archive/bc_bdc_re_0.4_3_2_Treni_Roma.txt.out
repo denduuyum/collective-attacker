@@ -1,0 +1,8 @@
+# Test data: ../data/Treni_Roma.txt
+# Parameters: L = 10, beta = 0.4, log = 2, nruns = 3, re-insertion = True
+# Best result: 32, duration = 0.14687215899903094 BC
+# avg: 32.666666666666664, avg duration = 0.14511346199954764
+# iteration No., bc value, bdc value, duration
+0,33,38,0.14756770599888114
+1,33,35,0.1409005210007308
+2,32,35,0.14687215899903094

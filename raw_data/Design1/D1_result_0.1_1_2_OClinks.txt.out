@@ -1,0 +1,6 @@
+# Test data: ../data/OClinks.txt
+# Parameters: L = 1100, beta = 0.1, log = 2, nruns = 1, re-insertion = False
+# Best result: 0, duration = 0.7506926299975021 BC
+# avg: 0.0, avg duration = 0.7506926299975021
+# iteration No., bc value, bdc value, duration
+0,0,0,0.7506926299975021

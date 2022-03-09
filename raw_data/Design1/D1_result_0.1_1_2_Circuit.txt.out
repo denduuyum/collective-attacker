@@ -1,0 +1,6 @@
+# Test data: ../data/Circuit.txt
+# Parameters: L = 30, beta = 0.1, log = 2, nruns = 1, re-insertion = False
+# Best result: 0, duration = 0.3216731780121336 BC
+# avg: 0.0, avg duration = 0.3216731780121336
+# iteration No., bc value, bdc value, duration
+0,0,0,0.3216731780121336

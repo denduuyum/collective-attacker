@@ -1,0 +1,8 @@
+# Test data: ../data/EU_flights.txt
+# Parameters: L = 850, beta = 0.4, log = 2, nruns = 3, re-insertion = True
+# Best result: 126, duration = 4.449655922000602 BDC
+# avg: 129.0, avg duration = 4.460930219333022
+# iteration No., bc value, bdc value, duration
+0,192,126,4.449655922000602
+1,198,129,4.515051002999826
+2,188,132,4.418083732998639

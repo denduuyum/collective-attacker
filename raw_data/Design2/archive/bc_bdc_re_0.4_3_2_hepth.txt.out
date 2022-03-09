@@ -1,0 +1,8 @@
+# Test data: ../data/hepth.txt
+# Parameters: L = 70, beta = 0.4, log = 2, nruns = 3, re-insertion = True
+# Best result: 1044, duration = 28.89014322299954 BC
+# avg: 1050.0, avg duration = 28.269866342000267
+# iteration No., bc value, bdc value, duration
+0,1044,1103,28.89014322299954
+1,1053,1088,28.865468034000514
+2,1053,1100,27.05398776900074

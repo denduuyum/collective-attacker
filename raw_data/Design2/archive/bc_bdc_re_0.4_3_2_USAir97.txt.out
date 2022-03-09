@@ -1,0 +1,8 @@
+# Test data: ../data/USAir97.txt
+# Parameters: L = 70, beta = 0.4, log = 2, nruns = 3, re-insertion = True
+# Best result: 35, duration = 0.2558567750002112 BDC
+# avg: 35.666666666666664, avg duration = 0.2556715196666725
+# iteration No., bc value, bdc value, duration
+0,36,35,0.2558567750002112
+1,42,37,0.24870402200031094
+2,39,35,0.2624537619994953

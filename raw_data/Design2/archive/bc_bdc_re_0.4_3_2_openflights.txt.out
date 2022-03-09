@@ -1,0 +1,8 @@
+# Test data: ../data/openflights.txt
+# Parameters: L = 140, beta = 0.4, log = 2, nruns = 3, re-insertion = True
+# Best result: 202, duration = 2.880894232999708 BDC
+# avg: 204.33333333333334, avg duration = 2.7594173103328408
+# iteration No., bc value, bdc value, duration
+0,206,202,2.880894232999708
+1,208,213,2.739048412999182
+2,203,210,2.658309284999632

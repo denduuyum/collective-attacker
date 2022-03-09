@@ -1,0 +1,6 @@
+# Test data: ../data/astroph.txt
+# Parameters: L = 12000, beta = 0.1, log = 2, nruns = 1, re-insertion = False
+# Best result: 0, duration = 31.10177441900305 BC
+# avg: 0.0, avg duration = 31.10177441900305
+# iteration No., bc value, bdc value, duration
+0,0,0,31.10177441900305

@@ -1,0 +1,8 @@
+# Test data: ../data/yeast1.txt
+# Parameters: L = 6, beta = 0.4, log = 2, nruns = 3, re-insertion = True
+# Best result: 203, duration = 2.8344610939984705 BC
+# avg: 203.66666666666666, avg duration = 2.765481926665719
+# iteration No., bc value, bdc value, duration
+0,204,205,2.7123535419996188
+1,204,205,2.7496311439990677
+2,203,206,2.8344610939984705

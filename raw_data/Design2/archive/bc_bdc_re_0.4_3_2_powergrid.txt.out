@@ -1,0 +1,8 @@
+# Test data: ../data/powergrid.txt
+# Parameters: L = 20, beta = 0.4, log = 2, nruns = 3, re-insertion = True
+# Best result: 458, duration = 9.054912243000217 BC
+# avg: 459.3333333333333, avg duration = 8.90168265800033
+# iteration No., bc value, bdc value, duration
+0,462,467,8.570771383001556
+1,458,463,9.054912243000217
+2,458,465,9.079364347999217

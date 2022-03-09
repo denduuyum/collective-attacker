@@ -1,0 +1,6 @@
+# Test data: ../data/facebook.txt
+# Parameters: L = 450, beta = 0.1, log = 2, nruns = 1, re-insertion = False
+# Best result: 0, duration = 1.941146496013971 BC
+# avg: 0.0, avg duration = 1.941146496013971
+# iteration No., bc value, bdc value, duration
+0,0,0,1.941146496013971

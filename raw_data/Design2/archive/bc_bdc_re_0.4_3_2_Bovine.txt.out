@@ -1,0 +1,8 @@
+# Test data: ../data/Bovine.txt
+# Parameters: L = 15, beta = 0.4, log = 2, nruns = 3, re-insertion = True
+# Best result: 4, duration = 0.01921755100011069 BC
+# avg: 4.0, avg duration = 0.02110518533360543
+# iteration No., bc value, bdc value, duration
+0,4,4,0.01921755100011069
+1,4,4,0.022575574001166387
+2,4,4,0.02152243099953921

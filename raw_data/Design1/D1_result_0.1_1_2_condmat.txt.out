@@ -1,0 +1,6 @@
+# Test data: ../data/condmat.txt
+# Parameters: L = 500, beta = 0.1, log = 2, nruns = 1, re-insertion = False
+# Best result: 0, duration = 22.53068342100596 BC
+# avg: 0.0, avg duration = 22.53068342100596
+# iteration No., bc value, bdc value, duration
+0,0,0,22.53068342100596

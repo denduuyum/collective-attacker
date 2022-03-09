@@ -1,0 +1,8 @@
+# Test data: ../data/hepph.txt
+# Parameters: L = 3600, beta = 0.4, log = 2, nruns = 3, re-insertion = True
+# Best result: 1349, duration = 74.50891547500032 BC
+# avg: 1415.0, avg duration = 76.17225964433358
+# iteration No., bc value, bdc value, duration
+0,1349,1421,74.50891547500032
+1,1484,1458,77.27902476700001
+2,1496,1438,76.72883869100042

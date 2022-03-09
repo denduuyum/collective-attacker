@@ -1,0 +1,8 @@
+# Test data: ../data/Ecoli.txt
+# Parameters: L = 20, beta = 0.4, log = 2, nruns = 3, re-insertion = True
+# Best result: 16, duration = 0.11439036699994176 BC
+# avg: 16.0, avg duration = 0.10515475666640366
+# iteration No., bc value, bdc value, duration
+0,16,17,0.11439036699994176
+1,16,16,0.10351836500012723
+2,16,17,0.09755553799914196

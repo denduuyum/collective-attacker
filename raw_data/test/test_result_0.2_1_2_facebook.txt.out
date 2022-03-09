@@ -1,0 +1,5 @@
+# Test data: ../data/facebook.txt
+# Parameters: L = 450, beta = 0.2, gamma = 2, nruns = 1, re-insertion = True
+# Best result: 279, duration = 9.099452534999728 # avg: 279.0, avg duration = 9.099452534999728
+# run No., objective function value, duration
+0,279,9.099452534999728
